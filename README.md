@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/lucasmaciel03/ipvc-rag-ollama">
-    <img src="https://ollama.com/public/ollama.png" alt="Logo" width="200" height="200">
+    <img src="https://ollama.com/public/ollama.png" alt="Logo" width="auto" height="auto">
   </a>
 
   <h1 align="center">ESTG RegPedagogicoBot</h1>
