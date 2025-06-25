@@ -1,0 +1,7 @@
+langchain
+chromadb
+PyPDF2
+ollama
+openai
+tqdm
+langchain-community
